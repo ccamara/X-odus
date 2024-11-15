@@ -1,8 +1,10 @@
 # X-odus
 
-A list of relevant organisations that have decided to leave X and have made a public statement
+A list of relevant organisations that have decided to break relationswhips with X and have made a public statement.
 
 ## Organisations that have quitted X
+
+The following organisations have deleted their accounts in X.
 
 ### News
 
@@ -43,15 +45,16 @@ A list of relevant organisations that have decided to leave X and have made a pu
 - Lionsgate (2023-11-17): [source](https://www.bloomberg.com/news/articles/2023-11-17/lionsgate-has-suspended-all-advertising-on-x-spokesman-says)
 - Magers & Quinn Booksellers (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
 - Mars (2024-09-05): [source](https://edition.cnn.com/2024/09/05/business/advertisers-x-withdrawal/index.html)     
-- North Wales Police (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
 - NPR (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)       
 - Playbill (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
 - Royal National orthopaedic hospital (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)
 - The Guardian (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)
 - Unilever (2024-09-05): [source](https://edition.cnn.com/2024/09/05/business/advertisers-x-withdrawal/index.html)
 - UnitedHealth Group (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
-- Victoria’s Department of Families, Fairness and Housing (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
 
 ### Governments and governmental bodies
 
 - EU comission (2023-11-17): [source](https://www.politico.eu/article/no-more-ads-elon-musk-x-twitter-european-commission-tell-staff/)
+- North Wales Police (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
+- Victoria’s Department of Families, Fairness and Housing (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
+
