@@ -1,15 +1,14 @@
 # X-odus
 
-A list of relevant organisations that have decided to break relationswhips with X and have made a public statement.
+A collaborative list to document how relevant organisations and key accounts that have decided to break relationswhips with X and have made a public statement.
 
 ## Organisations that have quitted X
 
-The following organisations have deleted their accounts in X.
+The following organisations have deleted their accounts in X or publicly announced they would stop publishing there.
 
 ### News
 
 #### Spain
-- El Salto
 - [La Vanguardia](https://www.lavanguardia.com) (2024-11-14): [Statement](https://www.lavanguardia.com/vida/20241114/10105193/vanguardia-dejara-publicar-x-convertido-red-desinformacion.html?utm_medium=Social&utm_source=Twitter#Echobox=1731565211) 
 
 #### UK
