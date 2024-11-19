@@ -1,4 +1,22 @@
 {
   "projectName": "X-odus",
-  "projectOwner": "ccamara"
+  "projectOwner": "ccamara",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "ccamara",
+      "name": "Carlos Cámara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/706549?v=4",
+      "profile": "http://carloscamara.es/en",
+      "contributions": [
+        "code",
+        "data"
+      ]
+    }
+  ]
 }
