@@ -62,3 +62,13 @@ The following organisations have deleted their accounts in X or publicly announc
 - North Wales Police (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
 - Victoria’s Department of Families, Fairness and Housing (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
