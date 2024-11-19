@@ -1,6 +1,6 @@
 # X-odus
 
-A collaborative list to document how relevant organisations and key accounts that have decided to break relationswhips with X and have made a public statement.
+A (hopefully) collaborative list to document how relevant organisations and key accounts that have decided to break relationswhips with X and have made a public statement.
 
 ## Organisations that have quitted X
 
@@ -63,6 +63,10 @@ The following organisations have deleted their accounts in X or publicly announc
 - Victoria’s Department of Families, Fairness and Housing (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
 
 ## Contributors
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
