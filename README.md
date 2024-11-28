@@ -6,6 +6,16 @@ A (hopefully) collaborative list to document how relevant organisations and key 
 
 The following organisations have deleted their accounts in X or publicly announced they would stop publishing there.
 
+### Universities
+
+#### Spain
+
+- Universitat de Barcelona (2024-11-20): [Statement](https://web.ub.edu/en/web/actualitat/w/ub-deixa-x)
+
+#### UK
+
+- UCL's Institute of Advanced Studies (IAS) (2024-11-25): [Statement](https://www.ucl.ac.uk/institute-of-advanced-studies/news/2024/nov/ias-leaving-x-formerly-twitter)
+
 ### News
 
 #### Spain
