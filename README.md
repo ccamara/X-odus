@@ -28,6 +28,10 @@ The following organisations have deleted their accounts in X or publicly announc
 
 ### News
 
+#### Europe
+
+- [European Federation of Journalists](http://europeanjournalists.org/) (2024-11-26): [Statement](https://europeanjournalists.org/blog/2024/11/26/x-odus-efjeurope-account-will-be-frozen-from-20-january-2025/)
+
 #### Spain
 - [La Vanguardia](https://www.lavanguardia.com) (2024-11-14): [Statement](https://www.lavanguardia.com/vida/20241114/10105193/vanguardia-dejara-publicar-x-convertido-red-desinformacion.html?utm_medium=Social&utm_source=Twitter#Echobox=1731565211) 
 
