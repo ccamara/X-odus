@@ -6,14 +6,24 @@ A (hopefully) collaborative list to document how relevant organisations and key 
 
 The following organisations have deleted their accounts in X or publicly announced they would stop publishing there.
 
-### Universities
+### Universities & Research organisations
+
+#### France
+
+- The University of Strasbourg (2024-01-18): [Statement](https://www.unistra.fr/communiques-presse/detail-communique-de-presse-archive/22529-the-university-of-strasbourg-leaves-the-social-network-x-ex-twitter)
 
 #### Spain
 
 - Universitat de Barcelona (2024-11-20): [Statement](https://web.ub.edu/en/web/actualitat/w/ub-deixa-x)
 
+#### The Netherlands
+
+- Utrech University (2024-07-03): [Statement](https://www.uu.nl/en/news/utrecht-university-quits-x)
+- VU Amsterdam (2024-11-21): [Statement](https://vu.nl/en/news/2024/vu-amsterdam-no-longer-active-on-x)
+
 #### UK
 
+- JISC (2024-08-21): [Statement](https://www.jisc.ac.uk/news/all/our-statement-on-leaving-x-twitter)
 - UCL's Institute of Advanced Studies (IAS) (2024-11-25): [Statement](https://www.ucl.ac.uk/institute-of-advanced-studies/news/2024/nov/ias-leaving-x-formerly-twitter)
 
 ### News
@@ -29,11 +39,7 @@ The following organisations have deleted their accounts in X or publicly announc
 - [NPR](https://www.npr.org/) (2023-04-12): [Statement](https://www.npr.org/2023/04/12/1169269161/npr-leaves-twitter-government-funded-media-label) 
 - PBS
 
-### Research
 
-#### UK
-
-- JISC (2024-08-21): [Statement](https://www.jisc.ac.uk/news/all/our-statement-on-leaving-x-twitter)
 
 ## Countries where X is banned:
 
