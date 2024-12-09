@@ -11,6 +11,11 @@ The following organisations have deleted their accounts in X or publicly announc
 #### France
 
 - The University of Strasbourg (2024-01-18): [Statement](https://www.unistra.fr/communiques-presse/detail-communique-de-presse-archive/22529-the-university-of-strasbourg-leaves-the-social-network-x-ex-twitter)
+- Sorbonne Université (2024-11-27): [Statement](https://www.sorbonne-universite.fr/en/news/sorbonne-university-moves-x-bluesky)
+
+### Germany
+
+* Freie Universität Berlin (2024-04-24): [Source](https://www.fu-berlin.de/informationen-fuer/beschaeftigte/aktuelles/news/240424-ausstieg-x/index.html)
 
 #### Spain
 
@@ -33,17 +38,17 @@ The following organisations have deleted their accounts in X or publicly announc
 - [European Federation of Journalists](http://europeanjournalists.org/) (2024-11-26): [Statement](https://europeanjournalists.org/blog/2024/11/26/x-odus-efjeurope-account-will-be-frozen-from-20-january-2025/)
 
 #### Spain
+
 - [La Vanguardia](https://www.lavanguardia.com) (2024-11-14): [Statement](https://www.lavanguardia.com/vida/20241114/10105193/vanguardia-dejara-publicar-x-convertido-red-desinformacion.html?utm_medium=Social&utm_source=Twitter#Echobox=1731565211) 
 
 #### UK
+
 - The Guardian (2024-11-13): [Statement](https://www.theguardian.com/media/2024/nov/13/why-the-guardian-is-no-longer-posting-on-x) 
 
 #### US
 
 - [NPR](https://www.npr.org/) (2023-04-12): [Statement](https://www.npr.org/2023/04/12/1169269161/npr-leaves-twitter-government-funded-media-label) 
 - PBS
-
-
 
 ## Countries where X is banned:
 
@@ -89,8 +94,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -100,6 +108,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 </table>
 
 <!-- markdownlint-restore -->
+
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
