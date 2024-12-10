@@ -16,6 +16,7 @@ The following organisations have deleted their accounts in X or publicly announc
 ### Germany
 
 * Freie Universität Berlin (2024-04-24): [Source](https://www.fu-berlin.de/informationen-fuer/beschaeftigte/aktuelles/news/240424-ausstieg-x/index.html)
+* Open Science an der Universität Bern (2024-12-02): [Source](https://openbiblio.social/@OSUniBe/113582938355719877)
 
 #### Spain
 
