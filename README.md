@@ -41,6 +41,7 @@ The following organisations have deleted their accounts in X or publicly announc
 
 #### The Netherlands
 
+- University of Groningen Library (2024-10-19): [Statement](https://www.rug.nl/news/2023/10/231019-ub-groningen-quits-twitter?lang=en)
 - Utrech University (2024-07-03): [Statement](https://www.uu.nl/en/news/utrecht-university-quits-x)
 - VU Amsterdam (2024-11-21): [Statement](https://vu.nl/en/news/2024/vu-amsterdam-no-longer-active-on-x)
 
@@ -50,6 +51,9 @@ The following organisations have deleted their accounts in X or publicly announc
 - King's College of London: Abandoned since 2019-05-22
 - Loughborough University: Abandoned since 2024-05-30
 - UCL's Institute of Advanced Studies (IAS) (2024-11-25): [Statement](https://www.ucl.ac.uk/institute-of-advanced-studies/news/2024/nov/ias-leaving-x-formerly-twitter)
+- University of Warwick
+  - Centre for Digital Enquiry
+  - Warwick R user group (2023-10-03): [Statement](https://x.com/WarwickRUG/status/1709140308972150908)
 
 ### News
 
