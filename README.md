@@ -8,15 +8,25 @@ The following organisations have deleted their accounts in X or publicly announc
 
 ### Universities & Research organisations
 
+#### Austria
+
+* Universität Wien (2024-11-25): [Statement](https://x.com/univienna/status/1860959221799407820)
+
 #### France
 
 - The University of Strasbourg (2024-01-18): [Statement](https://www.unistra.fr/communiques-presse/detail-communique-de-presse-archive/22529-the-university-of-strasbourg-leaves-the-social-network-x-ex-twitter)
 - Sorbonne Université (2024-11-27): [Statement](https://www.sorbonne-universite.fr/en/news/sorbonne-university-moves-x-bluesky)
 
-### Germany
+#### Germany
 
 * Freie Universität Berlin (2024-04-24): [Source](https://www.fu-berlin.de/informationen-fuer/beschaeftigte/aktuelles/news/240424-ausstieg-x/index.html)
+* HTW Berlin 
+* Karlsruher Institut für Technologie (KIT) (2024-12-04): [Source](https://x.com/KITKarlsruhe/status/1864229072601272519)
 * Open Science an der Universität Bern (2024-12-02): [Source](https://openbiblio.social/@OSUniBe/113582938355719877)
+* Technische Universität Berlin
+* Universität Bremen 
+* Universität Oldenburg 
+* Universität Ulm (2024-10-24): [Source](https://x.com/uni_ulm/status/1849414627119043039)
 
 #### Spain
 
