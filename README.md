@@ -28,6 +28,12 @@ The following organisations have deleted their accounts in X or publicly announc
 * Universität Oldenburg 
 * Universität Ulm (2024-10-24): [Source](https://x.com/uni_ulm/status/1849414627119043039)
 
+#### Luxembourg
+
+* University of Luxembourg (): [Source](https://www.virgule.lu/luxembourg/la-cssf-et-l-universite-du-luxembourg-quittent-twitter-d-autres-institutions-hesitent/5038143.html)
+
+
+
 #### Spain
 
 - Universitat de Barcelona (2024-11-20): [Statement](https://web.ub.edu/en/web/actualitat/w/ub-deixa-x)
@@ -40,6 +46,8 @@ The following organisations have deleted their accounts in X or publicly announc
 #### UK
 
 - JISC (2024-08-21): [Statement](https://www.jisc.ac.uk/news/all/our-statement-on-leaving-x-twitter)
+- King's College of London: Abandoned since 2019-05-22
+- Loughborough University: Abandoned since 2024-05-30
 - UCL's Institute of Advanced Studies (IAS) (2024-11-25): [Statement](https://www.ucl.ac.uk/institute-of-advanced-studies/news/2024/nov/ias-leaving-x-formerly-twitter)
 
 ### News
@@ -61,9 +69,22 @@ The following organisations have deleted their accounts in X or publicly announc
 - [NPR](https://www.npr.org/) (2023-04-12): [Statement](https://www.npr.org/2023/04/12/1169269161/npr-leaves-twitter-government-funded-media-label) 
 - PBS
 
-## Countries where X is banned:
+Governments and governmental bodies
 
-- Brazil
+#### Europe
+
+- EU comission (2023-11-17): [source](https://www.politico.eu/article/no-more-ads-elon-musk-x-twitter-european-commission-tell-staff/)
+
+#### Luxembourg
+
+- Commission de Surveillance du Secteur Financier (2024-10-23): [source](https://www.virgule.lu/luxembourg/la-cssf-et-l-universite-du-luxembourg-quittent-twitter-d-autres-institutions-hesitent/5038143.html)
+
+#### United Kingdom
+
+- North Wales Police (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)
+- Victoria’s Department of Families, Fairness and Housing (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)
+
+
 
 ## Organisations that have stopped advertising on X
 
@@ -92,11 +113,9 @@ The following organisations have deleted their accounts in X or publicly announc
 - UnitedHealth Group (2024-11-13): [source: Yahoo News](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)
 - Volkswagen ( ): source
 
-### Governments and governmental bodies
+## Countries where X is banned:
 
-- EU comission (2023-11-17): [source](https://www.politico.eu/article/no-more-ads-elon-musk-x-twitter-european-commission-tell-staff/)
-- North Wales Police (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
-- Victoria’s Department of Families, Fairness and Housing (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)    
+- Brazil
 
 ## Contributors
 
