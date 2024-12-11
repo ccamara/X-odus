@@ -24,8 +24,9 @@ The following organisations have deleted their accounts in X or publicly announc
 * Karlsruher Institut für Technologie (KIT) (2024-12-04): [Source](https://x.com/KITKarlsruhe/status/1864229072601272519)
 * Open Science an der Universität Bern (2024-12-02): [Source](https://openbiblio.social/@OSUniBe/113582938355719877)
 * Technische Universität Berlin
-* Universität Bremen 
+* Universität Bremen (2024-10-19): [Source](https://www.weser-kurier.de/bremen/stadtteil-horn-lehe/warum-sich-die-bremer-uni-von-twitter-verabschiedet-doc7sgemrj817cpvjrn4m)
 * Universität Oldenburg 
+* Universität Hohenheim (): 
 * Universität Ulm (2024-10-24): [Source](https://x.com/uni_ulm/status/1849414627119043039)
 
 #### Luxembourg
