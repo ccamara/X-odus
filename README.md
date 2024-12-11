@@ -61,6 +61,10 @@ The following organisations have deleted their accounts in X or publicly announc
 
 - [European Federation of Journalists](http://europeanjournalists.org/) (2024-11-26): [Statement](https://europeanjournalists.org/blog/2024/11/26/x-odus-efjeurope-account-will-be-frozen-from-20-january-2025/)
 
+#### France
+
+- [Ouest-France](https://www.ouest-france.fr/) (2024-11-19): [Statement](https://www.ouest-france.fr/high-tech/twitter/ouest-france-suspend-la-publication-sur-lensemble-de-ses-comptes-x-ex-twitter-accf09b8-a66b-11ef-b5f5-e7aa8444a877)
+
 #### Spain
 
 - [La Vanguardia](https://www.lavanguardia.com) (2024-11-14): [Statement](https://www.lavanguardia.com/vida/20241114/10105193/vanguardia-dejara-publicar-x-convertido-red-desinformacion.html?utm_medium=Social&utm_source=Twitter#Echobox=1731565211) 
