@@ -33,8 +33,6 @@ The following organisations have deleted their accounts in X or publicly announc
 
 * University of Luxembourg (): [Source](https://www.virgule.lu/luxembourg/la-cssf-et-l-universite-du-luxembourg-quittent-twitter-d-autres-institutions-hesitent/5038143.html)
 
-
-
 #### Spain
 
 - Universitat de Barcelona (2024-11-20): [Statement](https://web.ub.edu/en/web/actualitat/w/ub-deixa-x)
@@ -78,7 +76,7 @@ The following organisations have deleted their accounts in X or publicly announc
 - [NPR](https://www.npr.org/) (2023-04-12): [Statement](https://www.npr.org/2023/04/12/1169269161/npr-leaves-twitter-government-funded-media-label) 
 - PBS
 
-Governments and governmental bodies
+### Governments and governmental bodies
 
 #### Europe
 
@@ -92,8 +90,6 @@ Governments and governmental bodies
 
 - North Wales Police (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)
 - Victoria’s Department of Families, Fairness and Housing (2024-11-13): [source](https://uk.news.yahoo.com/brands-quit-x-twitter-guardian-175505372.html)
-
-
 
 ## Organisations that have stopped advertising on X
 
@@ -133,8 +129,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -145,6 +144,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 </table>
 
 <!-- markdownlint-restore -->
+
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
