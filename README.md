@@ -26,7 +26,7 @@ The following organisations have deleted their accounts in X or publicly announc
 * Technische Universität Berlin
 * Universität Bremen (2024-10-19): [Source](https://www.weser-kurier.de/bremen/stadtteil-horn-lehe/warum-sich-die-bremer-uni-von-twitter-verabschiedet-doc7sgemrj817cpvjrn4m)
 * Universität Oldenburg 
-* Universität Hohenheim (): 
+* Universität Hohenheim (2022-11-11):  [Statement](https://www.uni-hohenheim.de/alumni-news-artikel?tx_ttnews%5Btt_news%5D=57087&cHash=c5e57bb8f813ddfc20f852e4aff3bd54)
 * Universität Ulm (2024-10-24): [Source](https://x.com/uni_ulm/status/1849414627119043039)
 
 #### Luxembourg
