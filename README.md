@@ -128,6 +128,7 @@ The following organisations have deleted their accounts in X or publicly announc
 #### France
 
 - [Ouest-France](https://www.ouest-france.fr/) (2024-11-19): [Statement](https://www.ouest-france.fr/high-tech/twitter/ouest-france-suspend-la-publication-sur-lensemble-de-ses-comptes-x-ex-twitter-accf09b8-a66b-11ef-b5f5-e7aa8444a877)
+- The Conversation France: [Statement](https://theconversationfrance.cmail20.com/t/r-e-tduimik-hrlhohjdj-o/)
 
 #### Spain
 
@@ -147,6 +148,10 @@ The following organisations have deleted their accounts in X or publicly announc
 #### Europe
 
 - EU comission (2023-11-17): [source](https://www.politico.eu/article/no-more-ads-elon-musk-x-twitter-european-commission-tell-staff/)
+
+#### France
+
+* Paris City Council  (2025-01-20): [Source](https://www.sortiraparis.com/en/news/in-paris/articles/323503-social-networks-the-city-of-paris-leaves-the-x-network-formerly-twitter)
 
 #### Luxembourg
 
