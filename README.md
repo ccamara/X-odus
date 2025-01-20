@@ -96,7 +96,11 @@ The following organisations have deleted their accounts in X or publicly announc
 
 #### Spain
 
+- ANECA (2025-01-09): [Statement](https://www.aneca.es/web/guest/-/aneca-aterriza-en-mastodon)
+- CRUE Universidad (2025-01-17): [Statement](https://x.com/CrueUniversidad/status/1880246817998401868)
 - Universitat de Barcelona (2024-11-20): [Statement](https://web.ub.edu/en/web/actualitat/w/ub-deixa-x)
+- Universitat Jaume I (2025-01-17): [Statement (Catalan)](https://x.com/UJIuniversitat/status/1880244246898201047), [English](https://x.com/UJIuniversitat/status/1880244760062935514), [Spanish](https://x.com/UJIuniversitat/status/1880244555733205347).
+- 
 
 #### The Netherlands
 
@@ -113,6 +117,7 @@ The following organisations have deleted their accounts in X or publicly announc
 - University of Warwick
   - Centre for Digital Enquiry
   - Warwick R user group (2023-10-03): [Statement](https://x.com/WarwickRUG/status/1709140308972150908)
+  - Centre for Interdisciplinary Methodologies (2025-01-20): [Statement](https://x.com/CIMethods/status/1881421322636632359)
 
 ### News
 
